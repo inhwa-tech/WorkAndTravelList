@@ -12,14 +12,14 @@ Nomad Coders 강의 내용을 클론코딩하며 학습하였고 추가적으로
 
 ## 📸 실행 화면
 <p align="center">
-  <img src="ex/example1.jpg" alt="메인 화면" width="45%" />
-  <img src="ex/example2.jpg" alt="리스트 화면" width="45%" />
-  <img src="ex/example3.jpg" alt="리스트 화면" width="45%" />
+  <img src="ex/example1.jpg" alt="메인 화면" width="30%" />
+  <img src="ex/example2.jpg" alt="리스트 화면" width="30%" />
+  <img src="ex/example3.jpg" alt="리스트 화면" width="30%" />
 </p>
 <p align="center">
-  <img src="ex/example4.jpg" alt="메인 화면" width="45%" />
-  <img src="ex/example5.jpg" alt="리스트 화면" width="45%" />
-  <img src="ex/example6.jpg" alt="리스트 화면" width="45%" />
+  <img src="ex/example4.jpg" alt="메인 화면" width="30%" />
+  <img src="ex/example5.jpg" alt="리스트 화면" width="30%" />
+  <img src="ex/example6.jpg" alt="리스트 화면" width="30%" />
 </p>
 ---
 
