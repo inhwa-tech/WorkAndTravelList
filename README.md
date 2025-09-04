@@ -11,9 +11,10 @@ Nomad Coders 강의 내용을 클론코딩하며 학습하였고 추가적으로
 ---
 
 ## 📸 실행 화면
-| 메인 화면 | 리스트 화면 |
-|-----------|-------------|
-| ![메인](ex/example1.png) | ![리스트](ex/example2.png) |
+<p align="center">
+  <img src="./example1.png" alt="메인 화면" width="45%" />
+  <img src="./example2.png" alt="리스트 화면" width="45%" />
+</p>
 ---
 
 ## 🚀 주요 기능
